@@ -1,0 +1,2 @@
+mongoimport --jsonArray --db ITRI617ResearchDemo --collection Orders < c:\Users\Brendan Wood\Documents\GitHubRepo\ITRI617\MongoDBDBConnectionReearch\DataSourceFiles\orders.json
+mongoimport --jsonArray --db ITRI617ResearchDemo --collection Customers < C:\Users\Brendan Wood\Documents\GitHubRepo\ITRI617\MongoDBDBConnectionReearch\DataSourceFiles\customers.json
